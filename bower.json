@@ -1,0 +1,9 @@
+{
+  "name": "MySailsApp",
+  "version": "0.0.0",
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "bootstrap": "~3.2.0",
+    "flat-ui-official": "~2.1.3"
+  }
+}
